@@ -1,13 +1,13 @@
 {
     "name": "Telegram Bot",
-    "description": "Auto approove telegram group/channel join requests bot.",
+    "description": "telegram bot.",
     "keywords": [
         "Bot",
         "Telegram ",
         "Pyrogram "
     ],
     
-    "repository": "https://github.com/ImDenuwan/Auto-Approve-Bot",
+    "repository": "https://github.com/Abbasxan/bosfayl",
     "logo":"https://telegra.ph/file/a782e3bbbe40df8a4bb67.jpg",   
     "stack": "container"
 }
